@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     background-image:linear-gradient(to right, rgb(51, 51, 51), rgb(221, 24, 24));
+=======
+    background-image: linear-gradient(to right, rgb(51, 51, 51), rgb(221, 24, 24));
+>>>>>>> index
     
   
 }
